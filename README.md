@@ -1,5 +1,5 @@
 ## Hi there 👋
-🌱 I’m currently learning Laravel!
+🌱 I’m currently learning generative AI!
 
 👯 I'm looking to collaborate on mind-blowing web development projects, or at least, life-easing ones.
 

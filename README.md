@@ -4,8 +4,6 @@ From optimizing production lines to crafting web experiences. Joshua Homo | Indu
 
 🌱 I’m currently learning generative AI!
 
-🤔 I’m looking for help with figuring out why CSS insists on being so stubborn. Alignment struggles are real!
-
 ⚡ Fun fact: I'm the only industrial engineer in my class who traded production lines for misbehaving divs. Thrilling, right?
 
 👯 I'm looking to collaborate on mind-blowing web development projects, or at least, life-easing ones.

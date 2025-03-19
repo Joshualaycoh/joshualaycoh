@@ -1,13 +1,13 @@
 ## Hi there 👋
 🌱 I’m currently learning Laravel!
 
-👯 I’m looking to collaborate on web development projects that will blow people's minds—or, at the very least, make their lives a bit easier.
+👯 I'm looking to collaborate on mind-blowing web development projects, or at least, life-easing ones.
 
 🤔 I’m looking for help with figuring out why CSS insists on being so stubborn. Alignment struggles are real!
 
 💬 Ask me about  my journey from engineering to web development—I’ve got stories, lessons, and maybe a few laughs to share!
 
-⚡ Fun fact: ... I'm the only industrial engineer in my class who traded production lines for misbehaving divs. Thrilling, right?
+⚡ Fun fact: I'm the only industrial engineer in my class who traded production lines for misbehaving divs. Thrilling, right?
 
 📫 How to reach me: ... j.laycohomo@gmail.com
 <!--

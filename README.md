@@ -2,7 +2,7 @@
 
 From optimizing production lines to crafting web experiences. Joshua Homo | Industrial Engineer turned Web Dev.
 
-🌱 I’m currently learning generative AI!
+🌱 I’m currently learning generative AI! Here is my first AI work(https://joshualaycoh.github.io/Generative-AI-Clone/)
 
 ⚡ Fun fact: I'm the only industrial engineer in my class who traded production lines for misbehaving divs. Thrilling, right?
 

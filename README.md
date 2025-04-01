@@ -8,7 +8,7 @@ From optimizing production lines to crafting web experiences. Joshua Homo | Indu
 
 👯 I'm looking to collaborate on mind-blowing web development projects, or at least, life-easing ones.
    - Send me Ideas to j.laycohomo@gmail.com
-   Portfolio: https://mycodejourney.vercel.app/
+ Portfolio: https://mycodejourney.vercel.app/
 <!--
 **Joshualaycoh/joshualaycoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

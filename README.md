@@ -4,7 +4,7 @@ From optimizing production lines to crafting web experiences. Joshua Homo | Indu
 
 🌱 I’m currently learning generative AI! Here is my first AI work(https://joshualaycoh.github.io/Generative-AI-Clone/)
 
-⚡ Fun fact: I'm the only industrial engineer in my class who traded production lines for misbehaving divs. Thrilling, righ
+⚡ Fun fact: I'm the only industrial engineer in my class who traded production lines for misbehaving divs. Thrilling, right?
 
 👯 I'm looking to collaborate on mind-blowing web development projects, or at least, life-easing ones.
    - Send me Ideas to j.laycohomo@gmail.com

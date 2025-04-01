@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 From optimizing production lines to crafting web experiences. Joshua Homo | Industrial Engineer turned Web Dev.
-PORTFOLIO @ https://mycodejourney.vercel.app/
+  - Portfolio: https://mycodejourney.vercel.app/
 
 🌱 I’m currently learning generative AI! Here is my first AI work(https://joshualaycoh.github.io/Generative-AI-Clone/)
 

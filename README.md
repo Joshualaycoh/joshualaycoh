@@ -3,7 +3,7 @@
 From optimizing production lines to crafting web experiences. Joshua Homo | Industrial Engineer turned Web Dev.
    - Portfolio: https://mycodejourney.vercel.app/
 
-🌱 I’m currently learning generative AI! Here is my first AI work(https://joshualaycoh.github.io/Generative-AI-Clone/)
+🌱 I’m currently learning generative AI! Here is my first AI project(https://joshualaycoh.github.io/Generative-AI-Clone/)
 
 ⚡ Fun fact: I'm the only industrial engineer in my class who traded production lines for misbehaving divs. Thrilling, right?
 

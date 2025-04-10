@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-From optimizing production lines to crafting web experiences. Joshua Homo | Industrial Engineer turned Web Dev.
+I Am Joshua. I've Made A Shift From Optimizing Physical Processes To Crafting Digital Ones.
    - Portfolio: https://mycodejourney.vercel.app/
 
 🌱 I’m currently learning generative AI! Here is my first AI project(https://joshualaycoh.github.io/Generative-AI-Clone/)

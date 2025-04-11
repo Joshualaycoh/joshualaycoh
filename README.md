@@ -7,7 +7,7 @@
 
 ### 💼 About Me
 
-🔧 I’m **Joshua**, a curious mind who pivoted from streamlining **production lines** to orchestrating **digital flows**. 
+🔧 **Joshua.** From the workshops of industry, I've journeyed to the realm of code. A full-stack builder, striving to create useful and well-crafted digital homes for all wayfarers.
 ---
 
 ### 🚀 What I’m Up To
@@ -24,10 +24,6 @@
 I'm open to:
 - 🌐 Frontend & full-stack projects
 - 🤖 AI-powered interfaces
-- ✨ Creative dev experiments
-
-📬 Got a wild idea or a cool project? Let's talk: **j.laycohomo@gmail.com**
-
 ---
 
 ### ⚡ Fun Fact

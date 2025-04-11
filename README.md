@@ -10,16 +10,27 @@
 
 ---
 
-### 🚀 About Me
+### 💼 About Me
 
-- 🎓 Background in **Industrial Engineering**
-- 💻 Now crafting clean, human-focused web apps
-- 🌱 Learning **Generative AI** & building smart tools
+🔧 I’m **Joshua**, a curious mind who pivoted from streamlining **production lines** to orchestrating **digital flows**. My background in **Industrial Engineering** helps me bring structured problem-solving and efficiency to the world of software development.
 
-🧪 **First AI Project**: [Generative AI Clone](https://joshualaycoh.github.io/Generative-AI-Clone/)  
-🌐 **Portfolio**: [mycodejourney.vercel.app](https://mycodejourney.vercel.app/)
+🎯 I thrive on creating smooth, user-friendly experiences and exploring the intersection between technology and human behavior.
 
 ---
+
+### 🚀 What I’m Up To
+
+- 🌱 Currently diving into **Generative AI** and building tools that blur the line between creativity and code  
+- 🧠 Always learning new technologies and refining my coding skills, **leveraging AI to optimize my learning process.**
+- 💡 Looking to collaborate on innovative web apps that make life easier—or just more fun  
+
+🔗 **Check out my portfolio**: [mycodejourney.vercel.app](https://mycodejourney.vercel.app/)
+
+🧪 **First AI Project**:  
+[![Generative AI Clone](https://img.shields.io/badge/View_Project-%F0%9F%96%8C%EF%B8%8F-blue?style=flat-square)](https://joshualaycoh.github.io/Generative-AI-Clone/)
+
+---
+
 
 ### 🤝 Open to Collaborate
 

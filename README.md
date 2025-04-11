@@ -7,7 +7,7 @@
 
 ### 💼 About Me
 
-🔧 **Joshua.** From the workshops of industry, I've journeyed to the realm of code. A full-stack builder, striving to create useful and well-crafted digital homes for all wayfarers.
+🔧 From the workshops of industry, I've journeyed to the realm of code. A full-stack builder, striving to create useful and well-crafted digital homes for all wayfarers.
 ---
 
 ### 🚀 What I’m Up To

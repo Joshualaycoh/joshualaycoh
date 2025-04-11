@@ -7,7 +7,7 @@
 
 ### 💼 About Me
 
-🔧 From the workshops of industry, I've journeyed to the realm of code. A full-stack builder, striving to create useful and well-crafted digital homes for all wayfarers.
+👨‍💻 🛠️ Joshua, a humble engineer of industry, now venturing beyond the familiar workshops, eager to explore the winding paths and hidden wonders of the web development realm.
 ---
 
 ### 🚀 What I’m Up To

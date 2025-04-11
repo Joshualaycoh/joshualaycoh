@@ -1,7 +1,5 @@
 <h1 align="center">Hey, I'm Joshua 👨‍💻</h1>
-<p align="center">
-  🛠️ Industrial Engineer turned Web Developer 
-</p>
+
 
 ---
 

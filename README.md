@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Joshua 👨‍💻</h1>
-
+<p align="center">🌐 From Industrial Engineer to Web Dev</p>
 
 ---
 

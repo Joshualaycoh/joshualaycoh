@@ -26,12 +26,6 @@ I'm open to:
 - 🤖 AI-powered interfaces
 ---
 
-### ⚡ Fun Fact
-
-Only one in my class who swapped **production lines** for **misbehaving divs** — no regrets.
-
----
-
 ### 🧰 Tech Stack
 
 <p align="center">

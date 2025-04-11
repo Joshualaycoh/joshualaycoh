@@ -16,13 +16,6 @@
 
 ---
 
-### 🤝 Open to Collaborate
-
-I'm open to:
-- 🌐 Frontend & full-stack projects
-- 🤖 AI-powered interfaces
----
-
 ### 🧰 Tech Stack
 
 <p align="center">

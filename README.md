@@ -7,7 +7,7 @@
 
 ### 💼 About Me
 
-👨‍💻 🛠️ Joshua, a humble engineer of industry, now venturing beyond the familiar workshops, eager to explore the winding paths and hidden wonders of the web development realm.
+👨‍💻 🛠️ A humble engineer of industry, now venturing beyond the familiar workshops, eager to explore the winding paths and hidden wonders of the web development realm.
 ---
 
 ### 🚀 What I’m Up To

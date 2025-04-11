@@ -7,21 +7,15 @@
 
 ### 💼 About Me
 
-🔧 I’m **Joshua**, a curious mind who pivoted from streamlining **production lines** to orchestrating **digital flows**. My background in **Industrial Engineering** helps me bring structured problem-solving and efficiency to the world of software development.
-
-🎯 I thrive on creating smooth, user-friendly experiences and exploring the intersection between technology and human behavior.
-
+🔧 I’m **Joshua**, a curious mind who pivoted from streamlining **production lines** to orchestrating **digital flows**. 
 ---
 
 ### 🚀 What I’m Up To
 
 - 🧠 Always learning new technologies and refining my coding skills, **leveraging AI to optimize my learning process.**
-- 💡 Looking to collaborate on innovative web apps that make life easier—or just more fun  
+
 
 🔗 **Check out my portfolio**: [mycodejourney.vercel.app](https://mycodejourney.vercel.app/)
-
-🧪 **First AI Project**:  
-[![Generative AI Clone](https://img.shields.io/badge/View_Project-%F0%9F%96%8C%EF%B8%8F-blue?style=flat-square)](https://joshualaycoh.github.io/Generative-AI-Clone/)
 
 ---
 

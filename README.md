@@ -1,9 +1,4 @@
 <h1 align="center">Hey, I'm Joshua 👨‍💻</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding animation"/>
-</p>
-
 <p align="center">
   🛠️ Industrial Engineer turned Web Developer 
 </p>
@@ -20,7 +15,6 @@
 
 ### 🚀 What I’m Up To
 
-- 🌱 Currently diving into **Generative AI** and building tools that blur the line between creativity and code  
 - 🧠 Always learning new technologies and refining my coding skills, **leveraging AI to optimize my learning process.**
 - 💡 Looking to collaborate on innovative web apps that make life easier—or just more fun  
 
@@ -30,7 +24,6 @@
 [![Generative AI Clone](https://img.shields.io/badge/View_Project-%F0%9F%96%8C%EF%B8%8F-blue?style=flat-square)](https://joshualaycoh.github.io/Generative-AI-Clone/)
 
 ---
-
 
 ### 🤝 Open to Collaborate
 

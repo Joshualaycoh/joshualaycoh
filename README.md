@@ -1,64 +1,52 @@
-<h1 align="center">Hi there, I'm Joshua 👋</h1>
+<h1 align="center">Hey, I'm Joshua 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding animation"/>
 </p>
 
 <p align="center">
-  <b>From Optimizing Physical Processes to Engineering Digital Experiences</b><br>
-  Industrial Engineer turned Web Developer | Passionate about AI & UX
+  🛠️ Industrial Engineer turned Web Developer | Exploring AI & UX  
 </p>
 
 ---
 
-### 💼 About Me
+### 🚀 About Me
 
-🔧 I’m **Joshua**, a curious mind who pivoted from streamlining **production lines** to orchestrating **digital flows**. My background in **Industrial Engineering** helps me bring structured problem-solving and efficiency to the world of software development.
+- 🎓 Background in **Industrial Engineering**
+- 💻 Now crafting clean, human-focused web apps
+- 🌱 Learning **Generative AI** & building smart tools
 
-🎯 I thrive on creating smooth, user-friendly experiences and exploring the intersection between technology and human behavior.
-
----
-
-### 🚀 What I’m Up To
-
-- 🌱 Currently diving into **Generative AI** and building tools that blur the line between creativity and code  
-- 🧠 Always learning new technologies and refining my JavaScript and React skills  
-- 💡 Looking to collaborate on innovative web apps that make life easier—or just more fun  
-
-🔗 **Check out my portfolio**: [mycodejourney.vercel.app](https://mycodejourney.vercel.app/)
-
-🧪 **First AI Project**:  
-[![Generative AI Clone](https://img.shields.io/badge/View_Project-%F0%9F%96%8C%EF%B8%8F-blue?style=flat-square)](https://joshualaycoh.github.io/Generative-AI-Clone/)
+🧪 **First AI Project**: [Generative AI Clone](https://joshualaycoh.github.io/Generative-AI-Clone/)  
+🌐 **Portfolio**: [mycodejourney.vercel.app](https://mycodejourney.vercel.app/)
 
 ---
 
-### 🤝 Let's Collaborate
+### 🤝 Open to Collaborate
 
-I'm open to:
-- 🌐 Frontend & full-stack projects
-- 🤖 AI-powered interfaces
-- ✨ Creative dev experiments
+Looking to team up on:
+- ⚙️ Web apps that make life easier
+- 🎨 Creative dev experiments
+- 🤖 AI-integrated user experiences
 
-📬 Got a wild idea or a cool project? Let's talk: **j.laycohomo@gmail.com**
+📩 Reach me: **j.laycohomo@gmail.com**
 
 ---
 
 ### ⚡ Fun Fact
 
-> I’m the only **Industrial Engineer** in my class who swapped production lines for **misbehaving `<div>`s**.  
-> Debugging CSS might just be the new Lean Six Sigma!
+Only one in my class who swapped **production lines** for **misbehaving divs** — no regrets.
 
 ---
 
-### 🛠 Tech Stack
+### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vercel,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,git,github,vercel,vscode" />
 </p>
 
 ---
 
-### 🌐 Let's Connect
+### 🌍 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joshua-laycoh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>

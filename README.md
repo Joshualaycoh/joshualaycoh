@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🛠️ Industrial Engineer turned Web Developer | Exploring AI & UX  
+  🛠️ Industrial Engineer turned Web Developer 
 </p>
 
 ---
@@ -34,12 +34,12 @@
 
 ### 🤝 Open to Collaborate
 
-Looking to team up on:
-- ⚙️ Web apps that make life easier
-- 🎨 Creative dev experiments
-- 🤖 AI-integrated user experiences
+I'm open to:
+- 🌐 Frontend & full-stack projects
+- 🤖 AI-powered interfaces
+- ✨ Creative dev experiments
 
-📩 Reach me: **j.laycohomo@gmail.com**
+📬 Got a wild idea or a cool project? Let's talk: **j.laycohomo@gmail.com**
 
 ---
 
@@ -52,7 +52,7 @@ Only one in my class who swapped **production lines** for **misbehaving divs** �
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,git,github,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,nextjs,react,html,css,git,github,vercel,vscode,php,laravel,nodejs,express,postgresql,mysql" />
 </p>
 
 ---
